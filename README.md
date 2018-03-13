@@ -15,7 +15,7 @@ Up: Increase lamp brightness
 
 Down: Decrease lamp brightness
 
-s <number> <enter>: Go to slide <number>
+s \<number\> \<enter\>: Go to slide \<number\>
 
 space: capture image
 
