@@ -7,8 +7,9 @@ Python software to scan slides with a camera and a Kodak Pcom compatible project
 * Developed and tested on Debian
 
 # Dependencies
-* python-curtsies
-* python-gphoto2
+* Python 3
+* python3-curtsies
+* python3-gphoto2
 
 # Install
 A setup script is included.
