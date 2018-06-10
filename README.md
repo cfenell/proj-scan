@@ -31,3 +31,8 @@ s \<number\> \<enter\>: Go to slide \<number\>
 space: capture image with gphoto
 
 Q: quit
+
+
+# TODO:
+* Move hardcoded configurations from main program to a config file
+* Add more gphoto camera options and controls
